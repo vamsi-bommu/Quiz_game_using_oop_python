@@ -1,4 +1,5 @@
-question_data = [{"category": "Science: Computers", "type": "boolean", "difficulty": "easy", "question": "Linus Torvalds created Linux and Git.",
+question_data = [
+                {"category": "Science: Computers", "type": "boolean", "difficulty": "easy", "question": "Linus Torvalds created Linux and Git.",
                  "correct_answer": "True", "incorrect_answers": ["False"]
                  },
                  {"category": "Science: Computers",
@@ -27,4 +28,5 @@ question_data = [{"category": "Science: Computers", "type": "boolean", "difficul
                 {"category": "Science: Computers", "type": "boolean", "difficulty": "easy", "question": "The Windows ME operating system was released in the year 2000.", "correct_answer": "True", "incorrect_answers": ["False"]}, 
                 {"category": "Science: Computers", "type": "boolean", "difficulty": "easy", "question": "The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.", "correct_answer": "False", "incorrect_answers": ["True"]},
                 {"category": "Science: Computers", "type": "boolean", "difficulty": "easy", "question": "Linux was first created as an alternative to Windows XP.", "correct_answer": "False", "incorrect_answers": ["True"]},
-                {"category": "Science: Computers", "type": "boolean", "difficulty": "easy", "question": "The Python programming language gets its name from the British comedy group &quot;Monty Python.&quot;", "correct_answer": "True", "incorrect_answers": ["False"]}]
+                {"category": "Science: Computers", "type": "boolean", "difficulty": "easy", "question": "The Python programming language gets its name from the British comedy group &quot;Monty Python.&quot;", "correct_answer": "True", "incorrect_answers": ["False"]}
+]
